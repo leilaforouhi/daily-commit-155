@@ -1,4 +1,4 @@
-def pair_number(numbers):
+def pair_numbers(numbers):
     pairs = []
 
     for index in range(0, len(numbers) - 1, 2):
